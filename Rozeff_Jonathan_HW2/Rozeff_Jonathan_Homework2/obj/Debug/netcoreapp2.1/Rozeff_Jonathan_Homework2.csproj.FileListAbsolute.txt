@@ -1,0 +1,4 @@
+C:\Users\Jonroz\source\repos\Rozeff_Jonathan_Homework2\Rozeff_Jonathan_Homework2\obj\Debug\netcoreapp2.1\Rozeff_Jonathan_Homework2.csprojAssemblyReference.cache
+C:\Users\Jonroz\source\repos\Rozeff_Jonathan_Homework2\Rozeff_Jonathan_Homework2\obj\Debug\netcoreapp2.1\Rozeff_Jonathan_Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Jonroz\source\repos\Rozeff_Jonathan_Homework2\Rozeff_Jonathan_Homework2\obj\Debug\netcoreapp2.1\Rozeff_Jonathan_Homework2.AssemblyInfoInputs.cache
+C:\Users\Jonroz\source\repos\Rozeff_Jonathan_Homework2\Rozeff_Jonathan_Homework2\obj\Debug\netcoreapp2.1\Rozeff_Jonathan_Homework2.AssemblyInfo.cs
